@@ -1,0 +1,1 @@
+Films = new Meteor.Collection('films');
